@@ -1,4 +1,4 @@
-# Star-Ratings-of-restaurants
+Star Ratings of Restaurants
 
 Predict the star ratings of restaurants as 1, 3 or 5 stars based on its reviews. This is a form of sentiment analysis.
 
